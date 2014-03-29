@@ -10,7 +10,7 @@ It makes use of the following files.<br />
 <b>posttozaakpay.jsp</b> : This is the file which accepts input, sanitizes it & posts it to the TRANSACT API.<br />
 Please insert your secret key in this file.<br />
 
-<b>response.jsp</b> : The TRANSACT API completes the transaction & redirects user to this file.<br /><br />
+<b>response.jsp</b> : The TRANSACT API completes the transaction & redirects user to this file.<br />
 Please insert your secret key in this file.<br />
 
 <b>STATUS CHECK API :</b> Merchants can use this API to check the status of a prior transaction.<br />
